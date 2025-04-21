@@ -1,0 +1,30 @@
+
+body{background-color: blueviolet;text-align: center;}
+
+body{color: rgb(234, 185, 229);
+background-image: url(plant.jpg);
+background-size: 10%;
+background-repeat: repeat-y;
+
+
+
+
+}
+
+a:link { color: red; }
+a:visited { color: orange; }
+a:hover { color: yellow; }
+a:active { color: purple; }
+h1{color: pink;}
+
+h1{font-family: Arial, Helvetica, sans-serif;text-decoration: underline;}
+
+img {
+    width: 30%;
+}
+footer{text-align: center;}
+
+body{width: 80%;}
+
+p{line-height: 1.5;height: auto;}
+ul{text-align: left;}
