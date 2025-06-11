@@ -1,4 +1,8 @@
-
+/* Example: Zoom on Hover */
+.image-container:hover img {
+  transform: scale(1.1); /* Zooms the image to 110% of its original size */
+  transition: transform 0.3s ease; /* Smooth transition over 0.3 seconds */
+}
 
 body{background-color: blueviolet;text-align: center;}
 
